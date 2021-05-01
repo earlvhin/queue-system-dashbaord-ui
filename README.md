@@ -1,1 +1,1 @@
-# queue-system-dashbaord-ui
+# queue-system-dashboard-ui
